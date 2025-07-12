@@ -119,4 +119,4 @@ def update_output(chat_contents, marker_contents, chat_filename, marker_filename
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True) 
+    app.run(debug=True)
